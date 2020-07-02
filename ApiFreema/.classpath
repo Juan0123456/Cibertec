@@ -69,5 +69,12 @@
 	<classpathentry kind="lib" path="C:/Users/Usuario/git/ApiFreema/WebContent/WEB-INF/lib/primefaces-6.1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Usuario/git/ApiFreema/WebContent/WEB-INF/lib/slf4j-log4j12-1.7.5.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Usuario/git/ApiFreema/WebContent/WEB-INF/lib/validation-api-1.1.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Java/jdk1.8.0_202/lib/ant-javafx.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Java/jdk1.8.0_202/lib/dt.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Java/jdk1.8.0_202/lib/javafx-mx.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Java/jdk1.8.0_202/lib/jconsole.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Java/jdk1.8.0_202/lib/packager.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Java/jdk1.8.0_202/lib/sa-jdi.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Java/jdk1.8.0_202/lib/tools.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
