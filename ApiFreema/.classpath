@@ -76,5 +76,6 @@
 	<classpathentry kind="lib" path="C:/Program Files (x86)/Java/jdk1.8.0_202/lib/packager.jar"/>
 	<classpathentry kind="lib" path="C:/Program Files (x86)/Java/jdk1.8.0_202/lib/sa-jdi.jar"/>
 	<classpathentry kind="lib" path="C:/Program Files (x86)/Java/jdk1.8.0_202/lib/tools.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Java/jdk1.8.0_202"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
