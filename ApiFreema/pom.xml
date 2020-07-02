@@ -4,6 +4,14 @@
   <artifactId>ApiFreema</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
+  
+  <dependencies>
+<dependency>
+<groupId>com.sun.xml.ws</groupId>
+<artifactId>jaxws-rt</artifactId>
+<version>2.2.10</version>
+</dependency>
+</dependencies>
   <name>EntrePatas</name>
   <build>
     <sourceDirectory>src</sourceDirectory>
@@ -30,11 +38,6 @@
         <configuration>
           <warSourceDirectory>WebContent</warSourceDirectory>
         </configuration>
-      </plugin>
-      <plugin>
-        <groupId>org.apache.maven.plugins</groupId>
-        <artifactId>maven-jxr-plugin</artifactId>
-        <version>3.0.0</version>
       </plugin>
     </plugins>
   </build>
